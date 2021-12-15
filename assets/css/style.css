@@ -7,8 +7,12 @@
 
 body {
     background-color: #d9dcd6;
-    /* Added font-family to consolidate instances */
+    /* Added font-family to consolidate multiple instances */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* Updated .header to header */
@@ -83,15 +87,6 @@ a {
     max-height: 200px;
 }
 
-.content-feature h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-p {
-    font-size: 16px;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -100,6 +95,11 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -137,6 +137,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Updated footer h2 to footer h4 */
+footer h4 {
     font-size: 20px;
 }
