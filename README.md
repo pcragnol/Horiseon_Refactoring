@@ -15,3 +15,8 @@ At the end of this project, I learned that even though a website make appear pol
 #### Credits
 
 Original code provided by Trilogy Education Services.
+
+---
+© 2021 Peter Cragnoline
+
+Licensed under [MIT License](LICENSE)
